@@ -1,4 +1,4 @@
-# Road Profile Generation
+# Road Profile Generator
 
 This repo provides generation of road profiles (trapezoid hump, circular hump and ISO8608) and exports the results to csv files. An example of use of the code lies in `src/main.py`. 
 
