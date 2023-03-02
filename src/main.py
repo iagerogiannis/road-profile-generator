@@ -4,7 +4,7 @@ from src.utils import *
 
 
 # -- Export settings
-path = r"C:\Users\User\Desktop\mech-eng\ΔΣΟ\Half Car Model\matlab\road-profiles"
+path = r"../results"
 
 # -- Drive & Sampling Conditions
 road_length = 250.
